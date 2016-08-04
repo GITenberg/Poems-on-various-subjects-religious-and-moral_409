@@ -1,0 +1,31 @@
+_repo: Poems-on-various-subjects-religious-and-moral_409
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wheatley, Phillis
+    aliases:
+    - Wheatley, Phyllis
+    - Peters, Phillis
+    - Peters, Phillis Wheatley
+    birthdate: 1753
+    deathdate: 1784
+    gutenberg_agent_id: '227'
+    url: http://www.gutenberg.org/2009/agents/227
+    wikipedia: http://en.wikipedia.org/wiki/Phillis_Wheatley
+description: ''
+gutenberg_bookshelf: African American Writers
+gutenberg_issued: '1996-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '409'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry -- African American authors'
+- !lcc 'PS'
+- !lcsh 'American poetry'
+- GITenberg
+title: Poems on various subjects, religious and moral
+url: http://www.gutenberg.org/ebooks/409
